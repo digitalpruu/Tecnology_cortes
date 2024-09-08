@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "Tecnology",
     "subtitle": "cortes",
-    "description": "Mantenimiento y reparación de Smart Phone y consolas de videojuegos ",
+    "description": "Venta, Mantenimiento, y Reparación de Smart Phone y consolas de videojuegos ",
     "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Servicio",
-        "description": "Technology Cortes es tu destino confiable para la reparación y mantenimiento de smartphones y consolas de videojuegos. Nuestro equipo de expertos ofrece servicios rápidos y eficientes, utilizando tecnología de punta para garantizar que tus dispositivos funcionen como nuevos. ",
+        "description": "Technology Cortes es tu destino confiable para la reparación y mantenimiento de smartphones y consolas de videojuegos. Nuestro equipo de expertos ofrece servicios rápidos y eficientes, utilizando tecnología de punta para garantizar que tus dispositivos funcionen como nuevos.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Conócenos",
-        "description": "Ya sea que necesites una reparación urgente o mantenimiento preventivo, estamos aquí para ayudarte a mantener tus dispositivos en óptimas condiciones.",
+        "description": "Ya sea que necesites comprar o adquir un equipo celular o consola de videojuegos o una reparación urgente o mantenimiento preventivo, estamos aquí para ayudarte a mantener tus dispositivos en óptimas condiciones.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,7 +53,7 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 322 8529341",
         "icon": "/assets/images/phone.png"
       },
       {
@@ -68,7 +68,7 @@
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Tecnology Cortes",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
