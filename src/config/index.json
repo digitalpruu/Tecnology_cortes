@@ -69,7 +69,8 @@
       {
         "name": "Facebook",
         "description": "Tecnology Cortes",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
