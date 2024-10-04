@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@tecnologycortes05",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/tecnologycortes05?utm_source=qr&igsh=dXpnMGtnN2x4OXZs"
       },
       {
         "name": "Facebook",
         "description": "Tecnology Cortes",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=100079956273608&mibextid=JRoKGi"
       }
     ]
   },
